@@ -1,10 +1,10 @@
 import React from "react";
-import Display from "./Display";
+import LayoutDisplay1 from "./LayoutDisplay1";
 
 function App() {
   return (
     <>
-      <Display />;
+      <LayoutDisplay1 />
     </>
   );
 }
